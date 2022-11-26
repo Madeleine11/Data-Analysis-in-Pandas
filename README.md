@@ -1,4 +1,4 @@
-#Exploratory data analysis with Pandas
+# Exploratory data analysis with Pandas
 ### In this task you should use Pandas to answer a few questions about the Adult dataset.
 
 ### How many men and women (sex feature) are represented in this dataset?
